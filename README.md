@@ -1,6 +1,14 @@
 # Sudoku-Solver
 Java implementation of well known game - Sudoku Solver
 
+GUI of Game:
+
+
+
+
+
+
+
 
 
 
